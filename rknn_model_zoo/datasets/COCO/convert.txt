@@ -1,0 +1,2 @@
+ls "$PWD"/image/*.jpg > coco_subset_20.txt
+
